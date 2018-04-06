@@ -1,0 +1,30 @@
+{
+  "name": "jira-reporter",
+  "version": "1.0.0",
+  "description": "Sebastian Villegas - PSL jira reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvalderr/jira-reporter.git"
+  },
+  "keywords": [
+    "PSL",
+    "Jira",
+    "Reporter"
+  ],
+  "author": "Sebastian Villegas Zapata <svillegas@psl.com.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvalderr/jira-reporter/issues"
+  },
+  "homepage": "https://github.com/dvalderr/jira-reporter#readme",
+  "dependencies": {
+    "colombia-holidays": "0.0.1",
+    "moment-timezone": "^0.5.14",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
